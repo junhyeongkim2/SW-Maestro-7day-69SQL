@@ -1,6 +1,6 @@
 # 69SQL-7days
 
-SW-Maestro 대비 프로그래머스 SQL 고득적 Kit 69문제를 7일 동안 푸는 스터디
+SW-Maestro 14기 대비 프로그래머스 SQL 고득적 Kit 69문제를 7일 동안 푸는 스터디
 
 👉[프로그래머스 SQL 고득점 kit 풀러가기](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 
