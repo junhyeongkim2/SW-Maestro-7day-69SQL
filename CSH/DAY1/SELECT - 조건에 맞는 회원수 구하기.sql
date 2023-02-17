@@ -1,1 +1,0 @@
-SELECT count(*) FROM USER_INFO WHERE 19 < age and age < 30 and YEAR(joined)="2021";
